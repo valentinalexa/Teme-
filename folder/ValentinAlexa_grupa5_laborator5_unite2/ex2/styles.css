@@ -1,0 +1,29 @@
+body
+{   background-color: #76b5c5;
+    background-image: url("imagine\ agenda.jpg");
+    text-align: center;
+    align-items: center;
+    height: 300px;
+    margin: top 350px;;
+}
+
+h1  {
+    align-items: center;
+    background-color: #76b5c5;
+}
+  
+p{
+    align-items: center;
+    background-color: #76b5c5;  
+}
+
+a {
+    align-items: center;
+    background-color: #76b5c5;
+}
+
+button{
+    background-color:greenyellow;
+}
+
+
